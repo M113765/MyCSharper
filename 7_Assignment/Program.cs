@@ -39,4 +39,7 @@ while(true){
     }
 }
 */
+public class Car {
+    
+}
 #endregion
